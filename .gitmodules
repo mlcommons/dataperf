@@ -1,0 +1,12 @@
+[submodule "speech-selection"]
+	path = speech-selection
+	url = git@github.com:harvard-edge/dataperf-speech-example.git
+[submodule "vision-selection"]
+	path = vision-selection
+	url = https://github.com/CoactiveAI/dataperf-vision-selection.git
+[submodule "data-acquisition"]
+	path = data-acquisition
+	url = https://github.com/facebookresearch/Data_Acquisition_for_ML_Benchmark.git
+[submodule "vision-debugging"]
+	path = vision-debugging
+	url = https://github.com/DS3Lab/dataperf-vision-debugging
