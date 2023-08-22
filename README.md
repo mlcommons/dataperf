@@ -73,7 +73,8 @@ All challenges are hosted on https://dynabench.org/ where participants can submi
 For local development, clone this repository and run:
 
 ```bash
-cd dataperf2023
+git clone https://github.com/mlcommons/dataperf
+cd dataperf
 git submodule update --init --recursive
 ```
 
