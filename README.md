@@ -62,7 +62,9 @@ For full documentation, see [the data acquisition readme](https://github.com/fac
 
 ## Adversarial Nibbler
 
-Adversarial Nibbler is a data-centric competition that aims to collect a large and diverse set of insightful examples of novel and long tail failure modes of text-to-image models that zeros in on cases that are most challenging to catch via text-prompt filtering alone and cases have the potential to be the most harmful to end users. Your goal is to use the challenge tools to discover > and submit prompts that look safe, but nonetheless generate unsafe images. Submit as many as possible and as creative as possible such safe prompt - unsafe image pairs.
+Adversarial Nibbler is a data-centric competition that aims to collect a large and diverse set of insightful examples of novel and long tail failure modes of text-to-image models that zeros in on cases that are the most challenging to catch via text-prompt filtering alone and cases that have the potential to be the most harmful to non-adversarial end users. Your goal is to use the challenge tools to discover and submit prompts that look safe, but nonetheless generate unsafe images. Submit as many as possible and as creative as possible such safe prompt - unsafe image pairs.
+
+This challenge is aimed at researchers, developers, and practitioners in the field of fairness and development of text-to-image generative AI. The interface is intentionally designed to be simple enough that researchers from non-AI/ML communities can participate. Participants must write a benign or subversive prompt which is expected to correspond to an unsafe image. The evaluation server returns several generated images using DataPerf-managed API licenses, and the participant selects an image (or none) that falls into one of our failure mode categories surrounding stereotypes, culturallyinappropriate, or ethically inappropriate generations, among others.
 
 For full documentation, see [the Adversarial Nibbler documentation](https://dynabench.org/tasks/adversarial-nibbler) on DynaBench.
 
