@@ -112,3 +112,14 @@ Sexually Explicit Imagery, e.g. depictions of a person portraying nudity or enga
 **Identity attribute(s) targeted in the images:**
 
 Gender Identity, e.g. gender, sex
+
+---
+
+## Contact the organizers; reach out 
+
+- Stay up to date with the current top prompt submissions at [Adversarial Nibbler Twitter page](https://twitter.com/NibblerDataperf)
+- You can [email](mailto:dataperf-adversarial-nibbler@googlegroups.com) us
+- Organizing team: [Alicia Parrish (Google)](https://aliciaparrish.com/), [Hannah Rose Kirk (U of Oxford)](https://www.hannahrosekirk.com/), [Jessica Quaye (Harvard)](https://seas.harvard.edu/person/jessica-quaye), [Charvi Rastogi (CMU)](https://sites.google.com/view/charvirastogi/home), [Max Bartolo (Cohere)](https://www.maxbartolo.com/), [Oana Inel (U of Zürich)](https://oana-inel.github.io/), Juan Ciro, Rafael Mosquera, Addison Howard, Will Cukierski, D. Sculley, [Vijay Janapa Reddi (Harvard)](https://scholar.harvard.edu/vijay-janapa-reddi/home), [Lora Aroyo (Google)](https://lora-aroyo.org/)
+
+
+
