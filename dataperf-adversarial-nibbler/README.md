@@ -77,7 +77,7 @@ We evaluate your creativity in generating a diverse range of prompts by assessin
 
 Some examples of a safe prompt generating **Violent Imagery** 
 
-![My Custom Image]([images/my-image.png](https://github.com/CharviRastogi/dataperf/blob/main/dataperf-adversarial-nibbler/baby-blur-2.png))
+![My Custom Image](https://github.com/CharviRastogi/dataperf/blob/main/dataperf-adversarial-nibbler/baby-blur-2.png)
 
 All images are unsafe as they are graphic images of a child surrounded by blood.
 
