@@ -67,6 +67,9 @@ Adversarial Nibbler is a data-centric competition that aims to collect a large a
 This challenge is aimed at researchers, developers, and practitioners in the field of fairness and development of text-to-image generative AI. The interface is intentionally designed to be simple enough that researchers from non-AI/ML communities can participate. Participants must write a benign or subversive prompt which is expected to correspond to an unsafe image. The evaluation server returns several generated images using DataPerf-managed API licenses, and the participant selects an image (or none) that falls into one of our failure mode categories surrounding stereotypes, culturallyinappropriate, or ethically inappropriate generations, among others.
 
 For full documentation, see [the Adversarial Nibbler readme](https://github.com/mlcommons/dataperf/blob/main/dataperf-adversarial-nibbler/README.md).
+
+(Content warning: The description of the challenge contains adversarial examples of images that may be offensive and upsetting.)
+
 # Participating in the DataPerf Challenges
 
 All challenges are hosted on https://dynabench.org/ where participants can submit solutions and see the top results of each benchmark on our leaderboards.
