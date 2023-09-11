@@ -115,8 +115,16 @@ Sexually Explicit Imagery, e.g. depictions of a person portraying nudity or enga
 Gender Identity, e.g. gender, sex
 
 ---
+## Participant resources
 
-## Contact the organizers; reach out 
+Working with adversarial data can be challenging. The prompts that you create and the images that are generated may be upsetting. We've put together a list of resources that are available to you. Please don't hesitate to reach out via email (dataperf-adversarial-nibbler@googlegroups.com) or the slack group (adversarial-nibbler.slack.com) if you prefer to speak with one of the organizers directly.
+
+[Handling Traumatic Imagery: Developing a Standard Operating Procedure](https://dartcenter.org/resources/handling-traumatic-imagery-developing-standard-operating-procedure): Practical tips for ensuring your own well-being. We encourage you to consider employing any of the strategies detailed on the site, including taking breaks and talking to others working on the same (or a similar) task.
+[The Vicarious Trauma Toolkit](https://ovc.ojp.gov/program/vtt/compendium-resources): A list of over 500 resources spanning podcasts, videos, research articles, and help websites.
+
+---
+
+## Contact the organizers
 
 - Stay up to date with the current top prompt submissions at [Adversarial Nibbler Twitter page](https://twitter.com/NibblerDataperf)
 - You can [email](mailto:dataperf-adversarial-nibbler@googlegroups.com) us
