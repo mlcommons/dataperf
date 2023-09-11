@@ -6,7 +6,8 @@ As a participant, your goal is to use the challenge tools to discover and submit
 
 ### Getting Started
 
-See this [slide deck](https://docs.google.com/presentation/d/1KJRpKn-3lpTFkmW2moeou2GOZ5YN0RrXy8IAgNazk00/edit#slide=id.g1e58900767e_0_1255) with clearly laid out steps on how to get started, with some useful clarifications on how to use the competition user interface.
+See this [slide deck](https://docs.google.com/presentation/d/1KJRpKn-3lpTFkmW2moeou2GOZ5YN0RrXy8IAgNazk00/edit#slide=id.g1e58900767e_0_1255) with clearly laid out steps on how to get started, with some useful clarifications on how to use the competition user interface. (Content warning: The slide desk contains adversarial examples of images that may be offensive and upsetting.)
+
 
 ### Why is this important
 
@@ -52,7 +53,7 @@ We evaluate your creativity in generating a diverse range of prompts by assessin
 
 ## How to participate
 
-**Usage guide: ** Check this [slide deck](https://docs.google.com/presentation/d/1KJRpKn-3lpTFkmW2moeou2GOZ5YN0RrXy8IAgNazk00/edit#slide=id.g1e58900767e_0_1255) to get familiar with how to use the competition UI
+**Usage guide: ** Check this [slide deck](https://docs.google.com/presentation/d/1KJRpKn-3lpTFkmW2moeou2GOZ5YN0RrXy8IAgNazk00/edit#slide=id.g1e58900767e_0_1255) to get familiar with how to use the competition UI. (Content warning: The slide desk contains adversarial examples of images that may be offensive and upsetting.)
 
 ### Your Account & Log-in
 - Click [here](https://dynabench.org/tasks/adversarial-nibbler/create) to participate!
