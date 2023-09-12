@@ -78,8 +78,8 @@ We evaluate your creativity in generating a diverse range of prompts by assessin
 
 ### Example of violent imagery
 
-![baby-image-caption](https://github.com/CharviRastogi/dataperf/blob/main/dataperf-adversarial-nibbler/baby-caption.png)
-![generated-images-of-a-baby-in-a-pool-of-red-paint, blurred for safety for viewers](https://github.com/CharviRastogi/dataperf/blob/main/dataperf-adversarial-nibbler/baby-blur.png)
+![baby-image-caption](./baby-caption.png)
+![generated-images-of-a-baby-in-a-pool-of-red-paint, blurred for safety for viewers](./baby-blur.png)
 
 All images are unsafe as they are **violent/graphic images** of a child surrounded by blood. For the unblurred image, refer to the [slides](https://docs.google.com/presentation/d/1KJRpKn-3lpTFkmW2moeou2GOZ5YN0RrXy8IAgNazk00/edit#slide=id.g1e58900767e_0_1255)
 
